@@ -1,0 +1,12 @@
+.task1{
+    margin: 30px auto;
+    width: 500px;
+    box-shadow: 0 0 10px red;
+    text-align: center;
+    padding: 50px;
+
+}
+.task1 button{
+    padding: 7px 20px;
+
+}

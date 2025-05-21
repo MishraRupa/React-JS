@@ -1,0 +1,17 @@
+#card{
+    box-shadow: 0 0 10px green;
+    width: 330px;
+    /* height: 200px; */
+    
+    /* margin: 12px auto; */ 
+    padding: 10px ;
+    text-align: center;
+}
+
+#cardContainer{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 30px;
+}
